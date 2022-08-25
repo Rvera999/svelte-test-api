@@ -22,9 +22,21 @@ body{
     justify-content: space-between;
 }
 
-.btn{
+.btn1{
     position:relative;
     left: 0%;
+    padding: 5px 10px;
+    border: 1px solid white;
+    border-radius: 3px;
+    background: wheat;
+    font-weight: bold;
+    margin-bottom: 2px;
+}
+
+.btn2{
+    position:relative;
+    left: 0%;
+    justify-self:right;
     padding: 5px 10px;
     border: 1px solid white;
     border-radius: 3px;
