@@ -18,7 +18,8 @@ body{
 }
 
 .btns{
-    display: flex;
+    position: relative;
+    display:flex;
     justify-content: space-between;
 }
 
