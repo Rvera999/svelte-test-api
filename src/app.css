@@ -8,7 +8,6 @@ body{
     text-align: center;
 }
 .container{
-    position: relative;
     max-width: 4200px;
     margin: auto;
 }
