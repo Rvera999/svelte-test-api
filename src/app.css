@@ -20,14 +20,14 @@ body{
 
 .btns{
     position: relative;
-    left: 3%;
+    left: 6%;
     display:flex;
     justify-content: space-between;
 }
 
 .btn1{
     position: relative;
-    right: 4%;
+    right: 7%;
     padding: 5px 10px;
     border: 1px solid white;
     border-radius: 3px;
@@ -37,7 +37,7 @@ body{
 }
 .btn2{
     position: relative;
-    left: 2%;
+    left: 0%;
     justify-content: right;
     padding: 5px 10px;
     border: 1px solid white;
