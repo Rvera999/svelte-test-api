@@ -21,8 +21,8 @@
 
 <div class="container" >
   <div class="btns" >
-    <button class="btn" disabled={page==1} on:click={previousPage} >Previous</button>
-    <button class="btn" disabled={page==42} on:click={nextPage}>Next</button>
+    <button class="btn2" disabled={page==1} on:click={previousPage} >Previous</button>
+    <button class="btn1" disabled={page==42} on:click={nextPage}>Next</button>
   </div>
   
   <div class="grid" >

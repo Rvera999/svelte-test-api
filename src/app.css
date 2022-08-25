@@ -8,7 +8,8 @@ body{
     text-align: center;
 }
 .container{
-    max-width: 4200px;
+    position: relative;
+    max-width: 1200px;
     margin: auto;
 }
 .grid{
@@ -19,12 +20,11 @@ body{
 
 .btns{
     display:flex;
-    justify-content: space-between;
 }
 
-.btn{
-    position:relative;
-    left: 15%;
+.btn1{
+    position:relative; left: 90%;
+    justify-content: left;
     padding: 5px 10px;
     border: 1px solid white;
     border-radius: 3px;
@@ -32,7 +32,16 @@ body{
     font-weight: bold;
     margin-bottom: 2px;
 }
-
+.btn2{
+    position:relative; left: 3%;
+    justify-content: right;
+    padding: 5px 10px;
+    border: 1px solid white;
+    border-radius: 3px;
+    background: wheat;
+    font-weight: bold;
+    margin-bottom: 2px;
+}
 
 .character{
     background: #101010;
